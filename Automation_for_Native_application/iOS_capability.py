@@ -14,4 +14,3 @@ def des_cap_calendar_app():
     return driver
 
 
-des_cap_calendar_app()
