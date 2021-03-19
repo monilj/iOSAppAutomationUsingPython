@@ -1,4 +1,4 @@
-from Automation_for_Native_application.iOS_capability import des_cap_calendar_app
+from Desired_capabilities.iOS_capability import des_cap_calendar_app
 
 ios_driver = des_cap_calendar_app()
 ios_driver.find_element_by_id('Compose').click()
